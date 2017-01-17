@@ -29,3 +29,10 @@
 3. save
    saves the entire album to a file, makes use of the song.save attribute for the songs. The filepointer is a parameter.
 
+### Create a menu
+#### Options:
+1. Input a new album
+2. Print albums
+3. Quit
+
+When your program is opened it should read in the albums into a list of albums from the file, and when the user quits it should write the albums in the list to a file. Option 1 should add a new album to the album list.
